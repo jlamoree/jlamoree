@@ -1,3 +1,3 @@
-### Ladies and gentlemen, this is your captain speaking... 👨🏼‍✈️
- 
-Working on projects in Kubernetes, like, all the time. Sometimes other things.
+### News!
+
+I added a new macro set for retaining/restoring the Find Pasteboard in macOS: [github.com/jlamoree/macros](https://github.com/jlamoree/macros)
